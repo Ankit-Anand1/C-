@@ -23,27 +23,49 @@
 //}
 
 
+// #include <iostream>
+// using namespace std;
+
+// int main(){
+//     int x = 5;
+//     int *p = &x;
+
+//     char y = 'c';
+//     char *q = &y;
+
+//     cout << &x << endl;
+//     cout << p << endl;
+//     cout << *p << endl;
+
+//     cout<< &y << endl;
+//     cout << *q << endl;
+//     cout << (int)*q << endl;
+// }
+
 
 ///////dereference pointer
 
 
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-//int main(){
-//     int x=10;
+// //int main(){
+// //     int x=10;
+// //     int *p = &x;
+
+// // cout<< p << endl << *p;
+
+
+// int main(){
+//     int x=122;
 //     int *p = &x;
 
-// cout<< p << endl << *p;
+// cout<< x << endl;
+
+// *p = 6;
+// cout << x;
+
+// }
 
 
-int main(){
-    int x=122;
-    int *p = &x;
-
-cout<< x << endl;
-
-*p = 6;
-cout << x;
-
-}
+//////////////
